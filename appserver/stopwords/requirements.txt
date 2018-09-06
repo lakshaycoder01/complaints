@@ -1,0 +1,12 @@
+1. Python3
+2. Conda
+3. NLTK
+4. NLTK corpus
+5. keras
+6. scikit-learn
+7. tensorflow backend
+8. TextBlob
+9. pickle
+10. flask
+11. numpy
+12. pandas 
